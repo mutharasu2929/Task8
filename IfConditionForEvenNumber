@@ -1,0 +1,17 @@
+package Task8;
+
+public class IfConditionForEvenNumber {
+
+	public static void main(String[] args) {
+	
+		int number = 2024;
+		
+		if (number % 2 == 0) {
+			System.out.println("Given number is even");
+		}
+		else {
+			System.out.println("Given number is odd");
+		}
+	}
+
+}
