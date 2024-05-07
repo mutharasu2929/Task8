@@ -1,0 +1,21 @@
+package Task8;
+
+public class IfCondition {
+
+	public static void main(String[] args) {
+		
+		int a = 100;
+		int b = 200;
+		int c = 30;
+		int d = 40;
+		
+		//int sum1 = a + b;
+		//int sum2 = c + d;
+		//if (sum1 > sum2)
+		
+		if ( a+b > c+d)
+			System.out.println("sum of a + b is greater than sum of c + d");
+
+	}
+
+}
