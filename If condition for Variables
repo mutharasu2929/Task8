@@ -13,9 +13,9 @@ public class IfCondition {
 		//int sum2 = c + d;
 		//if (sum1 > sum2)
 		
-		if ( a+b > c+d)
+		if ( a+b > c+d) {
 			System.out.println("sum of a + b is greater than sum of c + d");
-
+		}
 	}
 
 }
